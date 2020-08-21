@@ -1,0 +1,9 @@
+[[AMGX]]
+arch = "x86_64"
+git-tree-sha1 = "08fb6362835fc86e141ded0243a53813056b0d91"
+libc = "glibc"
+os = "linux"
+
+    [[AMGX.download]]
+    sha256 = "a2b7b883f0e3f09075ea1ff1e4280e6fe3ab547b3bd21c31b7f695d7ae7abc2b"
+    url = "https://github.com/DeanLym/AMGX_jll.jl/releases/download/AMGX-v2.0.1+0/AMGX.v2.0.1.x86_64-linux-gnu.tar.gz"
